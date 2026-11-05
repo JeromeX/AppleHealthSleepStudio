@@ -1,0 +1,29 @@
+APPLE HEALTH SLEEP STUDIO
+PROPRIETÄRER RECHTEVORBEHALT
+
+Copyright © 2026 Malte Speck. Alle Rechte vorbehalten.
+
+Apple Health Sleep Studio einschließlich seiner Programmdateien, Benutzeroberfläche,
+Gestaltung, Dokumentation, Grafiken und sonstigen enthaltenen Materialien ist
+proprietäre Software, soweit einzelne Bestandteile nicht ausdrücklich anders
+gekennzeichnet sind.
+
+Ohne vorherige ausdrückliche schriftliche Zustimmung des Rechteinhabers ist es
+nicht gestattet, das Programm oder geschützte Bestandteile davon zu vervielfältigen,
+zu verändern, zu verbreiten, öffentlich bereitzustellen, weiterzuverkaufen,
+unterzulizenzieren oder kommerziell zu verwerten.
+
+Die Bereitstellung eines öffentlichen GitHub-Repositories gewährt keine zusätzliche
+Lizenz zur Nutzung, Bearbeitung oder Weiterverbreitung des Programms. Das Betrachten
+öffentlich zugänglicher Repository-Inhalte im Rahmen der jeweils geltenden
+Plattformbedingungen bleibt davon unberührt.
+
+Zwingende gesetzliche Rechte und Ausnahmen bleiben unberührt. Bestandteile Dritter
+unterliegen gegebenenfalls ihren jeweils eigenen Lizenzbedingungen. Diese sind
+maßgeblich, soweit sie für den betreffenden Bestandteil gelten.
+
+Für die Nutzung der herunterladbaren Anwendung gelten zusätzlich die
+Endbenutzer-Lizenzbedingungen (EULA.txt).
+
+Kontakt für Lizenzanfragen:
+Bitte über das im Projekt angegebene Kontaktverfahren an den Rechteinhaber wenden.

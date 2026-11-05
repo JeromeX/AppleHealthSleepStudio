@@ -1,0 +1,123 @@
+APPLE HEALTH SLEEP STUDIO
+END USER LICENSE AGREEMENT (EULA)
+Version 2.4.3 – Entwurf, Stand: 5. November 2026
+
+WICHTIG
+Bitte lies diese Bedingungen vor der Nutzung der Anwendung. Diese EULA ist ein
+Projektentwurf und ersetzt keine individuelle rechtliche Prüfung. Zwingende
+gesetzliche Rechte bleiben unberührt.
+
+1. VERTRAGSPARTEIEN UND GELTUNGSBEREICH
+
+Diese Bedingungen regeln die Nutzung der Windows-Anwendung „Apple Health Sleep
+Studio“ (nachfolgend „Software“). Rechteinhaber ist Malte Speck (nachfolgend
+„Lizenzgeber“). Sie gelten für die vom Lizenzgeber bereitgestellte Software und
+Dokumentation, soweit beim Bezug keine abweichenden schriftlichen Bedingungen
+vereinbart wurden.
+
+2. EINGERÄUMTE NUTZUNGSRECHTE
+
+Der Nutzer erhält ein einfaches, nicht ausschließliches, nicht übertragbares und
+nicht unterlizenzierbares Recht, die Software für eigene persönliche Zwecke auf
+einem von ihm kontrollierten kompatiblen Windows-System zu nutzen.
+
+Eine gewerbliche Nutzung, Weitergabe an Dritte, öffentliche Bereitstellung,
+Weiterveräußerung oder Unterlizenzierung ist nur mit vorheriger schriftlicher
+Zustimmung des Lizenzgebers gestattet.
+
+3. UNZULÄSSIGE HANDLUNGEN
+
+Soweit nicht zwingendes Recht etwas anderes erlaubt, ist es untersagt,
+- die Software oder Teile davon zu vervielfältigen oder weiterzuverbreiten,
+- die Software zu verändern, zu bearbeiten oder abgeleitete Werke zu erstellen,
+- Schutz- und Rechtevermerke zu entfernen,
+- die Software zu vermieten, zu verkaufen oder unterzulizenzieren,
+- technische Schutzmechanismen zu umgehen.
+
+Zwingende gesetzliche Ausnahmen bleiben unberührt.
+
+4. GESUNDHEITSDATEN UND DATENVERANTWORTUNG
+
+Die Software dient der lokalen Darstellung und deskriptiven Auswertung von Daten,
+die aus Apple Health exportiert und der Apple Watch zugeordnet werden können.
+Der Nutzer bleibt dafür verantwortlich, nur Daten zu importieren, zu deren
+Verarbeitung er berechtigt ist.
+
+Vor einer Deinstallation, einem Gerätewechsel oder sonstigen Änderungen am
+Datenbestand sollte der Nutzer prüfen, ob er benötigte Daten gesichert hat.
+Eine normale Deinstallation entfernt Programmdateien. Persönliche Gesundheitsdaten
+können getrennt gespeichert sein und werden nicht zwangsläufig mit entfernt.
+Eine zusätzliche Datenlöschung darf nur nach gesonderter Auswahl und ausdrücklicher
+Bestätigung erfolgen.
+
+5. KEINE MEDIZINISCHE DIAGNOSE ODER BEHANDLUNG
+
+Die Software dient der persönlichen Information und deskriptiven Visualisierung
+von Messdaten. Sie stellt keine medizinische Diagnose, Therapieempfehlung oder
+ärztliche Leistung bereit und ersetzt keine medizinische Untersuchung oder Beratung.
+
+Angezeigte Werte und Zusammenfassungen können unvollständig sein oder von
+Verfügbarkeit, Qualität, Zuordnung und Genauigkeit der Quelldaten abhängen.
+Bei gesundheitlichen Fragen oder Beschwerden ist qualifiziertes medizinisches
+Fachpersonal zuständig. Behandlungs- oder Medikationsentscheidungen dürfen nicht
+allein auf Grundlage der Software getroffen werden.
+
+6. DATENQUELLEN UND DRITTANBIETER
+
+Die Software ist für Daten vorgesehen, die aus Apple Health exportiert und eindeutig
+der Apple Watch zugeordnet werden können. Die Verfügbarkeit einzelner Datentypen
+hängt unter anderem von Gerät, Sensoren, Einstellungen, Betriebssystem und
+Exportinhalt ab.
+
+„Apple“ und „Apple Watch“ sind Marken von Apple Inc. Apple ist weder Lizenzgeber
+noch Vertragspartner dieser EULA. Soweit nicht ausdrücklich angegeben, besteht
+keine Zugehörigkeit, Förderung oder Unterstützung durch Apple.
+
+7. UPDATES UND SUPPORT
+
+Ein Anspruch auf Updates, neue Funktionen, Wartung oder technischen Support besteht
+nur, wenn dies ausdrücklich gesondert zugesagt wurde. Eine bestimmte Update-
+Infrastruktur oder automatische Update-Funktion ist nicht Bestandteil dieser EULA.
+
+8. GEWÄHRLEISTUNG UND HAFTUNG
+
+Es gelten die zwingenden gesetzlichen Gewährleistungs- und Haftungsregelungen.
+Diese EULA schließt keine Haftung aus, die gesetzlich nicht ausgeschlossen oder
+beschränkt werden darf, insbesondere nicht für Vorsatz, grobe Fahrlässigkeit,
+Verletzung von Leben, Körper oder Gesundheit oder zwingende Produkthaftung.
+
+Soweit gesetzlich zulässig, wird keine Garantie übernommen, dass die Software
+unter jeder Systemkonfiguration fehlerfrei oder unterbrechungsfrei funktioniert
+oder sämtliche Datenquellen und Messwerte vollständig verfügbar sind.
+
+Der Nutzer sollte wichtige Gesundheitsdaten unabhängig von der Software sichern.
+
+9. LAUFZEIT UND BEENDIGUNG
+
+Das Nutzungsrecht gilt, solange der Nutzer diese EULA einhält. Bei einem erheblichen
+Verstoß kann der Lizenzgeber das Nutzungsrecht nach Maßgabe des anwendbaren Rechts
+beenden. Der Nutzer kann die Nutzung jederzeit einstellen und die Software
+deinstallieren.
+
+10. RECHTE AN DER SOFTWARE
+
+Die Software bleibt urheberrechtlich geschützt. Durch diese EULA werden keine
+Eigentums- oder sonstigen Schutzrechte an den Nutzer übertragen. Alle nicht
+ausdrücklich eingeräumten Rechte verbleiben beim Lizenzgeber oder den jeweiligen
+Dritt-Rechteinhabern.
+
+11. SCHLUSSBESTIMMUNGEN
+
+Es gilt das jeweils anwendbare Recht. Zwingende Verbraucherschutzvorschriften des
+Staates, in dem der Nutzer seinen gewöhnlichen Aufenthalt hat, bleiben unberührt.
+Sollte eine Bestimmung unwirksam sein oder werden, bleiben die übrigen Bestimmungen
+im gesetzlich zulässigen Umfang unberührt.
+
+12. KONTAKT
+
+Lizenzgeber: Malte Speck
+Projekt: Apple Health Sleep Studio
+Kontakt: über das im Projekt beziehungsweise im GitHub-Repository angegebene
+Kontaktverfahren.
+
+Copyright © 2026 Malte Speck. Alle Rechte vorbehalten.
