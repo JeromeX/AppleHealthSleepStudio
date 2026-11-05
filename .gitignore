@@ -1,1 +1,58 @@
+# .NET / Visual Studio
+**/bin/
+**/obj/
+.vs/
+.vscode/
+*.user
+*.suo
+*.pdb
+*.log
 
+# Build-Ausgaben
+**/publish/
+**/artifacts/
+**/Release/
+**/Debug/
+
+# Gesundheitsdatenbanken
+**/Data/
+**/HealthStudio.sqlite
+**/*.sqlite
+**/*.sqlite3
+**/*.db
+**/*.db-wal
+**/*.db-shm
+
+# Verschlüsselung und Schlüssel
+**/database-key.dpapi
+**/*.dpapi
+**/*.pfx
+**/*.p12
+**/*.pem
+**/*.key
+
+# Apple-Health-Exporte
+**/export.xml
+**/export.zip
+**/apple_health_export/
+**/AppleHealthExport*/
+**/*HealthData*
+
+# Backups
+**/Backup/
+**/Backups/
+**/backups/
+**/*.backup
+**/*.before
+**/*.bak
+
+# Lokale Geheimnisse
+.env
+.env.*
+**/secrets.json
+**/appsettings.Local.json
+
+# Windows
+Thumbs.db
+desktop.ini
+.DS_Store
